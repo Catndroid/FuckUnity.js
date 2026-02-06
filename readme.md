@@ -1,4 +1,7 @@
 ## FuckUnity.js
+
+<img src="https://raw.githubusercontent.com/Catndroid/FuckUnity.js/refs/heads/main/source_fuckunity_js.png" width="100%"/>
+
 ### Remove the Unity engine's obstruction to game program launch on the web platform
 ### 删除Web平台上的Unity引擎对游戏程序的启动阻碍
 
